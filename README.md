@@ -1,2 +1,7 @@
-# djikstra-relation
-C++ project implementing Djikstra's Shortest Path Algorithm through different string relations.
+# Djikstra's Shortest Path Algorithm
+
+## Author
+Alex Ruddell
+
+## Project Description
+C++ project implementing Djikstra's Shortest Path Algorithm through different string relations. This code uses different relationships between three points, such as reflexivity, to determine if a node can be travelled to from a specific point. The path is then optimised for smallest score of path "weights", or distances.
